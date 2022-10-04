@@ -1,1 +1,1 @@
-should be signed via ssh
+Test sign a commit from macbook
