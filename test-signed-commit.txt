@@ -1,1 +1,2 @@
 Test sign a commit from macbook
+Global sign commit always
